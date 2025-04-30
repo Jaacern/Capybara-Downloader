@@ -1,0 +1,66 @@
+# ACUERDO DE LICENCIA DE USUARIO FINAL (EULA) - CAPYBARA DOWNLOADER
+
+## TÉRMINOS Y CONDICIONES
+
+Última actualización: 29 de abril de 2025
+
+Por favor, lea cuidadosamente este Acuerdo de Licencia de Usuario Final ("EULA", "Licencia") antes de instalar o utilizar Capybara Downloader ("el Software").
+
+Al instalar o utilizar el Software, usted (el "Usuario") acepta estar legalmente obligado por los términos de esta Licencia. Si no está de acuerdo con los términos de esta Licencia, no instale ni utilice el Software.
+
+### 1. CONCESIÓN DE LICENCIA
+
+Este EULA otorga al Usuario una licencia revocable, no exclusiva, intransferible para usar el Software de acuerdo con los términos de este EULA.
+
+El Usuario puede:
+- Instalar y utilizar el Software en dispositivos personales.
+- Hacer una copia del Software con fines de respaldo.
+
+El Usuario NO puede:
+- Modificar, descompilar, realizar ingeniería inversa o desensamblar el Software.
+- Alquilar, arrendar, prestar, vender, redistribuir o sublicenciar el Software.
+- Utilizar el Software para fines comerciales sin autorización previa por escrito.
+- Utilizar el Software para actividades ilegales o que infrinjan los derechos de terceros.
+
+### 2. PROPIEDAD INTELECTUAL
+
+El Software, incluyendo pero no limitado a su código fuente, interfaces, contenido, logos y documentación, es propiedad del titular de los derechos y está protegido por leyes de propiedad intelectual y tratados internacionales.
+
+Esta Licencia no le otorga ningún derecho de propiedad intelectual sobre el Software.
+
+### 3. SOFTWARE DE TERCEROS
+
+El Software utiliza componentes y bibliotecas de terceros, incluyendo pero no limitado a:
+- FFmpeg, bajo Licencia GPL/LGPL
+- yt-dlp, bajo Licencia Pública
+
+El Usuario acepta cumplir con los términos de licencia aplicables a estos componentes de terceros.
+
+### 4. DESCARGO DE RESPONSABILIDAD Y LIMITACIÓN DE RESPONSABILIDAD
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN.
+
+EN NINGÚN CASO EL TITULAR DE LOS DERECHOS SERÁ RESPONSABLE POR CUALQUIER RECLAMACIÓN, DAÑOS U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL SOFTWARE.
+
+### 5. USO RESPONSABLE
+
+El Usuario es responsable de usar el Software de manera legal y ética. El Software está diseñado para descargar contenido de plataformas en línea únicamente cuando:
+- El Usuario tiene derecho legal a hacerlo
+- La descarga cumple con los términos de servicio de la plataforma de origen
+- El contenido se utiliza para fines personales y no comerciales, a menos que esté específicamente permitido
+
+### 6. TERMINACIÓN
+
+Esta Licencia es efectiva hasta su terminación. Sus derechos bajo esta Licencia terminarán automáticamente sin previo aviso si no cumple con cualquiera de los términos y condiciones de esta Licencia.
+
+### 7. MODIFICACIONES DEL ACUERDO
+
+El titular de los derechos se reserva el derecho de modificar los términos de este EULA en cualquier momento. Las modificaciones entrarán en vigor inmediatamente después de su publicación.
+
+### 8. LEY APLICABLE
+
+Este EULA se regirá por las leyes del país/estado de residencia del titular de los derechos, sin tener en cuenta los conflictos de principios legales.
+
+---
+
+Al instalar y utilizar Capybara Downloader, usted reconoce que ha leído este EULA, lo entiende y acepta estar obligado por sus términos y condiciones.

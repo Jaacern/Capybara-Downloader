@@ -427,7 +427,7 @@ class MainWindow(QMainWindow):
         self.move(x, y)
         
         # Default output directory
-        self.output_dir = os.path.join(os.path.expanduser("~"), "Downloads", "Claude")
+        self.output_dir = os.path.join(os.path.expanduser("~"), "Downloads", "Capybara")
         os.makedirs(self.output_dir, exist_ok=True)
         
         # Localizar ffmpeg de manera robusta
